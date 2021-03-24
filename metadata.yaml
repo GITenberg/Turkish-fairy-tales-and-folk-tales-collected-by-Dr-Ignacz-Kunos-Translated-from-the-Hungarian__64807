@@ -1,0 +1,34 @@
+_repo: Turkish-fairy-tales-and-folk-tales-collected-by-Dr-Ignacz-Kunos-Translated-from-the-Hungarian__64807
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Levetus, Celia
+    gutenberg_agent_id: '53062'
+    url: http://www.gutenberg.org/2009/agents/53062
+  translator:
+    agent_name: Bain, R. Nisbet (Robert Nisbet)
+    alias: Bain, Robert Nisbet
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '5096'
+    url: http://www.gutenberg.org/2009/agents/5096
+creator:
+  author:
+    agent_name: Kúnos, Ignácz
+    gutenberg_agent_id: '53061'
+    url: http://www.gutenberg.org/2009/agents/53061
+description: ''
+gutenberg_issued: '2021-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Turkish fairy tales and folk tales collected by Dr. Ignácz Kúnos
+
+  Translated from the Hungarian version by R. Nisbet Bain. Illustrated by Celia Levetus.'
+url: http://www.gutenberg.org/ebooks/64807
