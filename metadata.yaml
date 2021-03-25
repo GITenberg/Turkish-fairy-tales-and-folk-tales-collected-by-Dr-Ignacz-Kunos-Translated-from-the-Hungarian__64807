@@ -12,12 +12,17 @@ contributor:
     deathdate: 1909
     gutenberg_agent_id: '5096'
     url: http://www.gutenberg.org/2009/agents/5096
+covers:
+- cover_type: archival
+  image_path: 64807-h/images/cover.jpg
 creator:
   author:
     agent_name: Kúnos, Ignácz
     gutenberg_agent_id: '53061'
     url: http://www.gutenberg.org/2009/agents/53061
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64807#Turkish-fairy-tales-and-folk-tales-collected-by-Dr-Ignacz-Kunos-Translated-from-the-Hungarian_
 gutenberg_issued: '2021-03-13'
 gutenberg_type: Text
 identifiers:
